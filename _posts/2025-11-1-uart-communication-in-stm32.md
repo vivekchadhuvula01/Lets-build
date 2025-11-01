@@ -214,12 +214,12 @@ text
 Congratulations! You've successfully implemented **UART communication** between your STM32 Nucleo board and PC. You can now:
 - Send and receive text via UART
 
+![STM32 UART Communication](https://vivekchadhuvula01.github.io/Lets-build/assets/img/uart.png){: .mx-auto.d-block :}
 
-> **Next Challenge**: Try implementing **interrupt-based reception** for non-blocking communication, or add command parsing to control LEDs via UART!
 
 ---
+> **Next Challenge**: Try implementing **interrupt-based reception** for non-blocking communication, or add command parsing to control LEDs via UART!
 
-![STM32 UART Communication](https://vivekchadhuvula01.github.io/Lets-build/assets/img/uart.png){: .mx-auto.d-block :}
 
 <details markdown="1">
 <summary>Click here for bonus exercises</summary>
