@@ -163,7 +163,7 @@ This fundamental skill will help you in future projects like:
 
 ---
 
-![STM32F401 LED Blink](assets/img/Pi7_GIF_CMP.gif){: .mx-auto.d-block :}
+![STM32F401 LED Blink](https://vivekchadhuvula01.github.io/Lets-build/assets/img/Pi7_GIF_CMP.gif){: .mx-auto.d-block :}
 
 <details markdown="1">
 <summary>Click here to view bonus exercise</summary>
