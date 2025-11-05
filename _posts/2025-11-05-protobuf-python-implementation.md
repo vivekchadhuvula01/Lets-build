@@ -22,7 +22,7 @@ It allows you to define structured data using a `.proto` schema, from which you 
 
 ### ✅ Why use Protobuf?
 | Feature | Description |
-| :--- | :--- |
+|-------|-----------|
 | **Compact** | Encoded in binary — smaller and faster than JSON or XML |
 | **Strongly typed** | Each field has a specific data type |
 | **Cross-platform** | Works with many languages |
