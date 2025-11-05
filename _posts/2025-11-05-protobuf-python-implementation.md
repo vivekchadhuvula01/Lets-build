@@ -21,15 +21,15 @@ You’ll learn what they are, how to install everything, create `.proto` schemas
 It allows you to define structured data using a `.proto` schema, from which you can generate code in multiple programming languages — including Python, C++, and Java.
 
 ### ✅ Why use Protobuf?
+
+
 | Feature | Description |
-|-------|-----------|
+| :---- | :---- |
 | **Compact** | Encoded in binary — smaller and faster than JSON or XML |
 | **Strongly typed** | Each field has a specific data type |
 | **Cross-platform** | Works with many languages |
 | **Version-safe** | Supports backward/forward compatibility |
 | **Fast** | Faster serialization and parsing than JSON |
-
-
 ---
 
 ## ⚙️ Installing Protobuf and Python Dependencies
