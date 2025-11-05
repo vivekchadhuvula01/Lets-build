@@ -297,5 +297,4 @@ JSON: {
 
 ---
 
-*Author: Vivek Chadhuvula*  
-*Date: { '{ page.date | date_to_long_string }' }*
+
